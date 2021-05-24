@@ -2,5 +2,6 @@
 
 Java GUI application for a Soccer League Database.
 
-Author: Luis Miguel Sanchez Pinilla/n
+Author: Luis Miguel Sanchez Pinilla
+
 Date: May 24, 2021
